@@ -1,7 +1,7 @@
 
 # Project Title
 
-Taggle is a web based chat application built on React.js, supports multiple chat rooms, instant messaging and in which only the permitted users can participate in the repective chat room/rooms (as assigned by the admin).
+Tattle is a web based chat application built on React.js, supports multiple chat rooms, instant messaging and in which only the permitted users can participate in the repective chat room/rooms (as assigned by the admin).
 
 
 ## Setup And Installation 
