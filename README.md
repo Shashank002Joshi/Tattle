@@ -6,7 +6,7 @@ Tattle is a web based chat application built on React.js, supports multiple chat
 
 ## Setup And Installation 
 
-  1. Run git clone https://github.com/Shashank002Joshi/taggle.git
+  1. Run git clone https://github.com/Shashank002Joshi/tattle.git
   2. Run npm install inside the directory
   3. Run npm start
 
